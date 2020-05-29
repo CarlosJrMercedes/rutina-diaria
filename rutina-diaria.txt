@@ -48,6 +48,12 @@ PODER SUPER FUERZA.
 31- prepararme para dormir.
 32- Caminar al baño y lavarme las manos.
 33- Regresar al cuarto.
+12- Preparame para entrenar.
+13- Entrenarme.
+14- Descansar.
+15- Caminar hacia el baño.
+16- Lavarme la cara y manos.
+17- Regresar al cuarto.
 34- Quitarme el lente.
 35- Acostarme.
 36- Acobijarme.
