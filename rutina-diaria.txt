@@ -26,36 +26,36 @@ PODER SUPER FUERZA.
 15- Caminar hacia el baño.
 16- Lavarme la cara y manos.
 17- Regresar al cuarto.
-12- Encender la computadora.
-13- Caminar a la cocina.
-14- Prepararme desayuno.
-15- Regresar al cuarto.
-16- Sentarme a comer viendo anime.
-17- Al terminar de comer revisar las plataformas de estudio
-18- Hacer tareas.
-19- Prepararme para bañarme.
-20- caminar hacia el baño y bañarme.
+18- Encender la computadora.
+19- Caminar a la cocina.
+20- Prepararme desayuno.
 21- Regresar al cuarto.
-22- Buscar ropa para ponerme.
-23- Ponerme ropa.
-24- Jugar videojuegos en el telefono.
-25- Llevar los platos del desayuno a la cocina.
-26- Lavar mis platos.
-27- Preparame Almuerzo.
-28- Regresar al cuarto.
-29- Ver anime miestras almuerzo.
-30- Jugar Videojuegos.
-31- prepararme para dormir.
-32- Caminar al baño y lavarme las manos.
-33- Regresar al cuarto.
-12- Preparame para entrenar.
-13- Entrenarme.
-14- Descansar.
-15- Caminar hacia el baño.
-16- Lavarme la cara y manos.
-17- Regresar al cuarto.
-34- Quitarme el lente.
-35- Acostarme.
-36- Acobijarme.
-37- cubrirme los ojos.
-38- Dormirme.
+22- Sentarme a comer viendo anime.
+23- Al terminar de comer revisar las plataformas de estudio
+24- Hacer tareas.
+25- Prepararme para bañarme.
+26- caminar hacia el baño y bañarme.
+27- Regresar al cuarto.
+28- Buscar ropa para ponerme.
+29- Ponerme ropa.
+30- Jugar videojuegos en el telefono.
+31- Llevar los platos del desayuno a la cocina.
+32- Lavar mis platos.
+33- Preparame Almuerzo.
+34- Regresar al cuarto.
+35- Ver anime miestras almuerzo.
+36- Jugar Videojuegos.
+37- prepararme para dormir.
+38- Caminar al baño y lavarme las manos.
+39- Regresar al cuarto.
+40- Preparame para entrenar.
+41- Entrenarme.
+42- Descansar.
+43- Caminar hacia el baño.
+44- Lavarme la cara y manos.
+45- Regresar al cuarto.
+46- Quitarme el lente.
+47- Acostarme.
+48- Acobijarme.
+49- cubrirme los ojos.
+50- Dormirme.
