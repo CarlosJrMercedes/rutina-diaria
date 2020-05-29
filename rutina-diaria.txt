@@ -20,3 +20,18 @@
 20- Regresar al cuarto.
 21- Buscar ropa para ponerme.
 22- Ponerme ropa.
+23- Jugar videojuegos en el telefono.
+24- Llevar los platos del desayuno a la cocina.
+25- Lavar mis platos.
+26- Preparame Almuerzo.
+27- Regresar al cuarto.
+28- Ver anime miestras almuerzo.
+29- Jugar Videojuegos.
+30- prepararme para dormir.
+31- Caminar al baño y lavarme las manos.
+32- Regresar al cuarto.
+33- Quitarme el lente.
+34- Acostarme.
+35- Acobijarme.
+36- cubrirme los ojos.
+37- Dormirme.
