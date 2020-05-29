@@ -20,6 +20,12 @@ PODER SUPER FUERZA.
 9-  Regresar al cuarto.
 10- Revisar el telefono.
 11- Ponerme el lente de contacto en el ojo izquierdo.
+12- Preparame para entrenar.
+13- Entrenarme.
+14- Descansar.
+15- Caminar hacia el baño.
+16- Lavarme la cara y manos.
+17- Regresar al cuarto.
 12- Encender la computadora.
 13- Caminar a la cocina.
 14- Prepararme desayuno.
